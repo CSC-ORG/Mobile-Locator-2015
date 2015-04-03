@@ -1,0 +1,16 @@
+<resources>
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    
+    
+    <style name="Theme.Material.DialogWhenLarge.NoActionBar" parent="android:Theme.Material.NoActionBar" />
+
+    <!-- Application theme. -->
+    <style name="AppTheme" parent="Theme.Material.DialogWhenLarge.NoActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>
